@@ -1,0 +1,9 @@
+example.pl
+
+lib/Acme/Threads.pm
+lib/Acme/Threads/Proxy.pm
+
+t/00-load.t
+
+Build.PL
+MANIFEST
